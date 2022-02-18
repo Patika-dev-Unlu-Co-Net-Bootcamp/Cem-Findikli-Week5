@@ -1,0 +1,12 @@
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\bin\Debug\net5.0\CarDealer.Core.deps.json
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\bin\Debug\net5.0\CarDealer.Core.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\bin\Debug\net5.0\ref\CarDealer.Core.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\bin\Debug\net5.0\CarDealer.Core.pdb
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\obj\Debug\net5.0\CarDealer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\obj\Debug\net5.0\CarDealer.Core.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\obj\Debug\net5.0\CarDealer.Core.AssemblyInfo.cs
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\obj\Debug\net5.0\CarDealer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\obj\Debug\net5.0\CarDealer.Core.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\obj\Debug\net5.0\ref\CarDealer.Core.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\obj\Debug\net5.0\CarDealer.Core.pdb
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Core\obj\Debug\net5.0\CarDealer.Core.csproj.AssemblyReference.cache

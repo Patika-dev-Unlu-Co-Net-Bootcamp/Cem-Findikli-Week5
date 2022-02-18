@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G97UsCGcffnuuRS/KydF7W7vjnQsflGT2g1Qfg8B3BGnG84+pzXgXGmyL65CFMM5HVqURoo0H4gLF/z/dcI2jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Core\\CarDealer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cem\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Cem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\bin\Debug\net5.0\CarDealer.Service.deps.json
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\bin\Debug\net5.0\CarDealer.Service.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\bin\Debug\net5.0\ref\CarDealer.Service.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\bin\Debug\net5.0\CarDealer.Service.pdb
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\bin\Debug\net5.0\CarDealer.Core.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\bin\Debug\net5.0\CarDealer.Repository.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\bin\Debug\net5.0\CarDealer.Repository.pdb
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\bin\Debug\net5.0\CarDealer.Core.pdb
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\obj\Debug\net5.0\CarDealer.Service.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\obj\Debug\net5.0\CarDealer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\obj\Debug\net5.0\CarDealer.Service.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\obj\Debug\net5.0\CarDealer.Service.AssemblyInfo.cs
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\obj\Debug\net5.0\CarDealer.Service.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\obj\Debug\net5.0\CarDealer.Service.csproj.CopyComplete
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\obj\Debug\net5.0\CarDealer.Service.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\obj\Debug\net5.0\ref\CarDealer.Service.dll
+C:\Users\Cem\Desktop\Project\patika\ApiBase\CarDealerApi\CarDealer.Service\obj\Debug\net5.0\CarDealer.Service.pdb

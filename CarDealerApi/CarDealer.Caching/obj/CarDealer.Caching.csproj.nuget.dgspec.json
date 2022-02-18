@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Caching\\CarDealer.Caching.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Caching\\CarDealer.Caching.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Caching\\CarDealer.Caching.csproj",
+        "projectName": "CarDealer.Caching",
+        "projectPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Caching\\CarDealer.Caching.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Caching\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Service\\CarDealer.Service.csproj": {
+                "projectPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Service\\CarDealer.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Core\\CarDealer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Core\\CarDealer.Core.csproj",
+        "projectName": "CarDealer.Core",
+        "projectPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Core\\CarDealer.Core.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Data\\CarDealer.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Data\\CarDealer.Repository.csproj",
+        "projectName": "CarDealer.Repository",
+        "projectPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Data\\CarDealer.Repository.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Core\\CarDealer.Core.csproj": {
+                "projectPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Core\\CarDealer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Service\\CarDealer.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Service\\CarDealer.Service.csproj",
+        "projectName": "CarDealer.Service",
+        "projectPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Service\\CarDealer.Service.csproj",
+        "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Data\\CarDealer.Repository.csproj": {
+                "projectPath": "C:\\Users\\Cem\\Desktop\\Project\\patika\\ApiBase\\CarDealerApi\\CarDealer.Data\\CarDealer.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
